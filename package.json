@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "collisions": "^2.0.13",
+    "express": "^4.16.3",
+    "pathfinding": "^0.4.18",
+    "socket.io": "^0.9.19",
+    "supervisor": "^0.12.0",
+    "websocket": "^1.0.26"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3",
+    "webpack-dev-server": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Socket.JS"
+  },
+  "author": "me",
+  "license": "ISC"
+}
